@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToeX</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">TAP TO START</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

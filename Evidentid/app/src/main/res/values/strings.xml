@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="summary">Daily Summary</string>
+    <string name="date_chooser">Choose a date to see the weather of GA/Alpharetta</string>
+
+    <string name="visi">Mean visibility in Mph:</string>
+    <string name="wind_speed">Mean wind speed in Mph:</string>
+    <string name="temp">Mean temperature:</string>
+
+</resources>
